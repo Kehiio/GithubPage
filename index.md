@@ -18,7 +18,7 @@ Current UCSD student interested in *embedded systems, robotics, and low level sy
 It seems the project pile is always growing. Heres some current projects I am working on, tasks, and any repo's if applicable.
 
 - Arduino Learning Repo
-    - Personal repo for learning how to use specific components.
+    - Personal project for learning how to use specific components.
     - [Repo](https://github.com/Kehiio/Arduino-Uno)
 - Mochan V2
     - Rewiring the current mochan robot to be more autonomous and touch interactive
@@ -40,9 +40,9 @@ I'm constantly inspired by the media I watch. Here are some of my favorite sourc
 | Media             |       Commentary      |
 |---------------------|---------------------|
 | *Mochan by Huy Vector*
-[![Mochan Video](pictures\mochanV.png)](https://www.youtube.com/watch?v=3hjvpyjxPsk&t=268s "Mochan")| Mochan is such a cute desk robot. I love how he uses metal to create the body or structure for most of the designs. Mochan has inspired me to try creating robots on my own and experiment with LCD screens. Building this project was my first introduction to arduino coding, adafruit vfx libraries, and CAD. |
+[![Mochan Video](pictures/mochanV.png)](https://www.youtube.com/watch?v=3hjvpyjxPsk&t=268s "Mochan")| Mochan is such a cute desk robot. I love how he uses metal to create the body or structure for most of the designs. Mochan has inspired me to try creating robots on my own and experiment with LCD screens. Building this project was my first introduction to arduino coding, adafruit vfx libraries, and CAD. |
 | *SciGirl's Aquabots*
-[![SciGirls Video](pictures\aquabot.png)](https://www.youtube.com/watch?v=XwuH_IZWApA&t=1379s) | SciGirls is a PBS kids show from over 12 years ago. It was my introduction to women in engineering and a huge reason as to why I started studying computer science in the first place. This project was building a remote-controlled undersea explorer to take pictures of ocean organisms and the sea floor. Thank you PBS for opening the door to engineering for me.|
+[![SciGirls Video](pictures/aquabot.png)](https://www.youtube.com/watch?v=XwuH_IZWApA&t=1379s) | SciGirls is a PBS kids show from over 12 years ago. It was my introduction to women in engineering and a huge reason as to why I started studying computer science in the first place. This project was building a remote-controlled undersea explorer to take pictures of ocean organisms and the sea floor. Thank you PBS for opening the door to engineering for me.|
 | *Ube's Cyber Deck Build*
 [![Cyberdeck video](pictures/cyberdecksun.png)](https://www.youtube.com/watch?v=sVnjyTWPwnc) | Recent cyber deck builds are wonderful examples of making funtional tech that is visually appealing! I am a huge fan of solar punk and post-apocolypic aesthetics, so I've been wanting to build a mini-computer to do schoolwork without the disctrations present on my PC or laptop. 
 | *I Build Stuff's Flying Umbrella*
@@ -50,5 +50,5 @@ I'm constantly inspired by the media I watch. Here are some of my favorite sourc
 |  |   |
 
 ## The End..?
-Thanks for making it this far! Heres a [picture of my dog Lilo ](pictures\lawnMower.png) larping as a lawn mower as thanks for your time.
+Thanks for making it this far! Heres a picture of my [dog.png](pictures/lawnMower.png) larping as a lawn mower as thanks for your time. (Her name is Lilo and she is **very** cute. Don't tell me if you disagree.)
 
