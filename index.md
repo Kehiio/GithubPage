@@ -20,6 +20,7 @@ It seems the project pile is always growing. Heres some current projects I am wo
 - Arduino Learning Repo
     - Personal project for learning how to use specific components.
     - [Repo](https://github.com/Kehiio/Arduino-Uno)
+    - How I learned what `pinMode(PIN, OUTPUT)` meant.
 - Mochan V2
     - Rewiring the current mochan robot to be more autonomous and touch interactive
         - [x] Order parts
