@@ -16,9 +16,17 @@ Current UCSD student interested in *embedded systems, robotics, and low level sy
 
 
 ## Inspiring Creators
-I'm constantly inspired by the media I watch. Here are some of my favorite sources of inspiration!
+I'm constantly inspired by the media I watch. Here are some of my favorite sources of inspiration! Click the image to view the video.
 
 | Media             |       Commentary      |
 |---------------------|---------------------|
-[![Alternate Text]({image-url})]({video-url} "Link Title")
+| *Mochan by Huy Vector*
+[![Mochan Video](pictures\mochanV.png)](https://www.youtube.com/watch?v=3hjvpyjxPsk&t=268s "Mochan")| Mochan is such a cute desk robot. I love how he uses metal to create the body or structure for most of the designs. Mochan has inspired me to try creating robots on my own and experiment with LCD screens. Building this project was my first introduction to arduino coding, adafruit vfx libraries, and CAD. |
+| *SciGirl's Aquabots*
+[![SciGirls Video](pictures\aquabot.png)](https://www.youtube.com/watch?v=XwuH_IZWApA&t=1379s) | SciGirls is a PBS kids show from over 12 years ago. It was my introduction to women in engineering and a huge reason as to why I started studying computer science in the first place. This project was building a remote-controlled undersea explorer to take pictures of ocean organisms and the sea floor. Thank you PBS for opening the door to engineering for me.|
+| *Ube's Cyber Deck Build*
+[![Cyberdeck video](pictures/cyberdecksun.png)](https://www.youtube.com/watch?v=sVnjyTWPwnc) | Recent cyber deck builds are wonderful examples of making funtional tech that is visually appealing! I am a huge fan of solar punk and post-apocolypic aesthetics, so I've been wanting to build a mini-computer to do schoolwork without the disctrations present on my PC or laptop. 
+| *I Build Stuff's Flying Umbrella*
+[![Umbrella Video](pictures/umbrella.png)](https://www.youtube.com/watch?v=EYRrUiM_A6g) | This genuenly feels like something from a futuristic movie. I love watching videos that over engineer to solve small inconveniences. A common theme among my interests is autonomous movement. I found this video to be especially interesting as he went over the thought process of building the flying umbrella. 
+
 
